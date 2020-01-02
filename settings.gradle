@@ -1,0 +1,2 @@
+include ':app', ':myfirstlibrary'
+rootProject.name='OwnLibraryTest'
